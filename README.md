@@ -1,5 +1,5 @@
 # **Secure Anonymous Chat on the Darknet using OnionShare & AWS**
-
+![Project Screenshot](Onion_2.png) ![Project Screenshot](Onion_3.png)
 ## **Project Overview**
 This project demonstrates how to set up a **secure, anonymous chat system** using **OnionShare** hosted on an **AWS instance** within the **Tor network**. The setup ensures **end-to-end encryption**, allowing users to communicate privately without third-party surveillance.
 
